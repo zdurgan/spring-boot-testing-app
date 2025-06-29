@@ -1,4 +1,4 @@
-package com.example.spring_boot_testing_app.keys;
+package com.example.spring_boot_testing_app.processing;
 
 public abstract class Element<ValueType> {
 
